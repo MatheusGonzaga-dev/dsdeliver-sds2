@@ -1,12 +1,11 @@
 
 import './App.css';
-
-
+import Navbar from './Navbar/index';
 
 function App() {
   return (
     <div>
-        <h1>Hello Word!</h1>
+        <Navbar/>
     </div>
   );
 }
