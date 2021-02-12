@@ -1,7 +1,7 @@
 # 💻 - Delivery website design
 
 <a href="https://matheusgonzaga-sds2.netlify.app/">
-  <img align=""left" alt="Delivery Project" width="100px" src="https://ibb.co/WW93mvw" />
+  ![alt text](https://ibb.co/WW93mvw)
                                                                                                                                 </a>
                                                                                       
 <a href="https://matheusgonzaga-sds2.netlify.app/orders">
